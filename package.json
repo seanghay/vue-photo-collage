@@ -1,6 +1,6 @@
 {
   "name": "vue-photo-collage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A photo collage component for Vue.js",
   "main": "./dist/library.common.js",
   "module": "./dist/library.esm.js",
