@@ -6,6 +6,11 @@ A Vue.js@2 version of [react-photo-collage](https://github.com/sopetrichor/react
 
 <img src="https://user-images.githubusercontent.com/15277233/146314612-1fd03d11-f9a5-4eb2-aedc-17409ad5a16e.png" width=450>
 
+### CodeSandbox
+
+[Demo on CodeSandbox](https://codesandbox.io/s/vue-photo-collage-lzbbq)
+
+
 ## Installation
 
 ```
