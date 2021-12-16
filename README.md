@@ -2,6 +2,7 @@
 
 A Vue.js@2 version of [react-photo-collage](https://github.com/sopetrichor/react-photo-collage)
 
+<img src="https://user-images.githubusercontent.com/15277233/146314612-1fd03d11-f9a5-4eb2-aedc-17409ad5a16e.png" width=450>
 
 ## Installation
 
