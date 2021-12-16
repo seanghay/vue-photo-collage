@@ -8,8 +8,7 @@ A Vue.js@2 version of [react-photo-collage](https://github.com/sopetrichor/react
 
 ### CodeSandbox
 
-[Demo on CodeSandbox](https://codesandbox.io/s/vue-photo-collage-lzbbq)
-
+[![Edit vue-photo-collage](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/vue-photo-collage-lzbbq?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Installation
 
