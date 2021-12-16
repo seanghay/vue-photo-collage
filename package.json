@@ -1,6 +1,6 @@
 {
   "name": "vue-photo-collage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A photo collage component for Vue.js",
   "main": "./dist/library.common.js",
   "module": "./dist/library.esm.js",
@@ -37,5 +37,10 @@
   "dependencies": {
     "rimraf": "^3.0.2",
     "vue": "^2.6.14"
-  }
+  },
+  "files": [
+    "dist/library.browser.js",
+    "dist/library.common.js",
+    "dist/library.esm.js"
+  ]
 }
