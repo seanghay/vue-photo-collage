@@ -84,3 +84,7 @@ export default {
 </script>
 ```
 
+
+## Contribution
+
+Pull requests are welcomed.
