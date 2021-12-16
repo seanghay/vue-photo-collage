@@ -22,6 +22,8 @@ npm i vue-photo-collage
 </template>
 
 <script>
+import { PhotoCollageWrapper } from 'vue-photo-collage'
+
 export default {
   components: {
     PhotoCollageWrapper,
