@@ -13,6 +13,6 @@
   z-index: 1;
   position: absolute;
   cursor: pointer;
-  border-radius: 1em;
+  border-radius: var(--vue-photo-grid-radius);
 }
 </style>
