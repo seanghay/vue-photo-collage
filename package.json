@@ -4,8 +4,8 @@
   "description": "A photo collage component for Vue.js",
   "main": "./dist/library.common.js",
   "module": "./dist/library.esm.js",
-  "browser": "./dist/library.browser.js",
   "unpkg": "./dist/library.browser.js",
+  "type": "module",
   "scripts": {
     "build": "rimraf dist && rollup -c --environment BUILD:production",
     "prepublish": "npm run build"

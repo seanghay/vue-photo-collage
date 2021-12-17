@@ -114,16 +114,20 @@ export default {
   },
   methods: {
     setGapSize() {
-      document.documentElement.style.setProperty(
-        "--vue-photo-grid-gap",
-        this.gapSize
-      );
+      if (document) {
+        document.documentElement.style.setProperty(
+          "--vue-photo-grid-gap",
+          this.gapSize
+        );
+      }
     },
     setBorderRadius() {
-      document.documentElement.style.setProperty(
-        "--vue-photo-grid-radius",
-        this.borderRadius
-      );
+      if (document) {
+        document.documentElement.style.setProperty(
+          "--vue-photo-grid-radius",
+          this.borderRadius
+        );
+      }
     },
   },
   computed: {
