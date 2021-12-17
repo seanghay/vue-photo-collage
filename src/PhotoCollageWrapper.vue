@@ -39,6 +39,7 @@ function createLayoutPhotoMaps(layout, photos) {
 }
 
 export default {
+  name: "PhotoCollageWrapper",
   components: {
     PhotoCollage,
   },
